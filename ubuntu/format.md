@@ -34,4 +34,12 @@
 - asdf global nodejs 14.1.0
 
 ### Install Yarn
-npm i -g yarn
+- npm i -g yarn
+
+### Instal ZHS and Oh My ZHS
+- sudo apt install zsh
+- sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+- sudo apt-get install dconf-cli
+- wget -O gogh https://git.io/vQgMr && chmod +x gogh && ./gogh && rm gogh (Install Material Theme - 90)
+- git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+- plugins=(zsh-autosuggestions) (inside ~/.zshrc)
