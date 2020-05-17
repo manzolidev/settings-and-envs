@@ -1,6 +1,4 @@
-# Vscode Settings
-
-### _Plugins_
+# Plugins
 - DotENV
 - EditorConfig for VS Code
 - ESLint
