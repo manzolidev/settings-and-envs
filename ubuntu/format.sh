@@ -51,8 +51,8 @@ echo 'INSTALLING ASDF'
 echo '----------------------------------------------------------------------------------------'
 
 git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.7.8
-$HOME/.asdf/asdf.sh
-$HOME/.asdf/completions/asdf.bash
+. $HOME/.asdf/asdf.sh
+. $HOME/.asdf/completions/asdf.bash
 
 echo '----------------------------------------------------------------------------------------'
 echo 'INSTALLING NODEJS'
