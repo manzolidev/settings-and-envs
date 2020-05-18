@@ -65,9 +65,9 @@ asdf plugin-add nodejs https://github.com/asdf-vm/asdf-nodejs.git
 bash ~/.asdf/plugins/nodejs/bin/import-release-team-keyring
 asdf plugin add nodejs
 asdf install nodejs 14.1.0
-asdf install nodejs 10.20.1
-asdf local nodejs 10.20.1
-asdf global nodejs 10.20.1
+asdf install nodejs 12.16.3
+asdf local nodejs 12.16.3
+asdf global nodejs 12.16.3
 
 echo '----------------------------------------------------------------------------------------'
 echo 'INSTALLING YARN'
