@@ -76,13 +76,11 @@ echo '--------------------------------------------------------------------------
 npm i -g yarn
 
 echo '----------------------------------------------------------------------------------------'
-echo 'INSTALLING TERMINATOR'
+echo 'INSTALLING MATERIAL THEME IN TERMINAL'
 echo '----------------------------------------------------------------------------------------'
 
-sudo add-apt-repository ppa:gnome-terminator/nightly
-sudo add-apt-repository ppa:gnome-terminator/nightly-gtk3
-sudo apt-get update
-sudo apt-get install terminator
+wget -O gogh https://git.io/vQgMr && chmod +x gogh && ./gogh && rm gogh
+90
 
 echo '----------------------------------------------------------------------------------------'
 echo 'INSTALLING ZHS AND OH MY ZHS'
