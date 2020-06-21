@@ -49,5 +49,8 @@ bash ~/.asdf/plugins/nodejs/bin/import-release-team-keyring
 asdf install nodejs 12.16.3
 asdf global nodejs 12.16.3
 
-echo 'INSTALING SLACK'
+echo 'INSTALLING SLACK'
 brew cask install slack
+
+echo 'INSTALLING VLC'
+brew cask install vlc
