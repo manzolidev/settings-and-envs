@@ -54,3 +54,6 @@ brew cask install slack
 
 echo 'INSTALLING VLC'
 brew cask install vlc
+
+echo 'INSTALLING FIGMA'
+brew cask install figma
