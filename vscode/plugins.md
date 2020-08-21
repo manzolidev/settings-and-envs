@@ -5,7 +5,12 @@
 - GitLens
 - Markdown All in One
 - Marko Syntaax Highlighting
+- SVG Viewer
 - Material Theme (Default theme)
+- Material Icon Theme
 - Path Intellisense
 - Prettier
 - Vetur
+- Color Brackets
+- CodeSnap
+- Colorize
