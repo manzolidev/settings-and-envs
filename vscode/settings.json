@@ -1,7 +1,7 @@
 {
   "workbench.colorTheme": "Material Theme",
   "workbench.iconTheme": "eq-material-theme-icons",
-  // "editor.formatOnSave": true,
+  "editor.formatOnSave": true,
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontWeight": "400",
   "editor.fontSize": 13,
