@@ -27,7 +27,6 @@ git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.8.0
 . $HOME/.asdf/completions/asdf.bash
 
 echo 'Installing NodeJS'
-
 sudo apt-get install dirmngr
 sudo apt-get install gpg
 sudo apt-get install curl
@@ -51,3 +50,9 @@ sudo apt install gnome-tweak-tool
 
 echo 'Installing Postman'
 sudo snap install postman
+
+echo 'Installing Slack'
+sudo snap install --classic slack
+
+echo 'Installing Figma'
+sudo snap install --classic figma-linux
