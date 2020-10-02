@@ -56,3 +56,6 @@ sudo snap install --classic slack
 
 echo 'Installing Figma'
 sudo snap install --classic figma-linux
+
+echo 'Installing Redis'
+sudo apt-get install redis-server
