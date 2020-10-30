@@ -12,7 +12,7 @@ echo 'INSTALLING HOMEBREW'
 echo 'INSTALLING GIT'
 brew install git
 git config --global user.name "Richard Manzoli"
-git config --global user.email "manzolirch@gmail.com"
+git config --global user.email "manzolidev@gmail.com"
 
 echo 'INSTALLING EDGE'
 brew cask install microsoft-edge
